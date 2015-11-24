@@ -1,3 +1,4 @@
 # SeminarProject
 Program Seminar
-asdfas dfasdf asdf asdf asdf asdfasdfa sd
+nama : zamzam nur
+kelas :if12 cuy
